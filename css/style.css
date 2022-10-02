@@ -867,6 +867,15 @@ img {
     align-items: center;
 }
 
+.modal-form h2{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--title-text-color);
+}
+
 .modal-element{
     position: relative;
     display: flex;
